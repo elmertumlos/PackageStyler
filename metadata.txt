@@ -17,7 +17,7 @@ deprecated=False
 
 [author]
 name=Elmer S. Tumlos
-email=e.tumlos@psa.gov.ph
+email=elmertumlos777@gmail.com
 
 [about]
 This plugin allows the styling of all loaded layers in a GeoPackage (GPKG) with a few clicks, utilizing QML files for consistent and efficient styling.
