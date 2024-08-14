@@ -1,0 +1,9 @@
+[general]
+name=PackageStyler
+description=Style all loaded layers in the GPKG in a few clicks.
+version=1.0
+qgisMinimumVersion=3.2
+author=Elmer S. Tumlos
+email=e.tumlos@psa.gov.ph
+category=Plugins
+icon=icon.png
