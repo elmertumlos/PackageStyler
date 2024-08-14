@@ -1,0 +1,39 @@
+[general]
+name=PackageStyler
+qgisMinimumVersion=3.2
+qgisMaximumVersion=3.24
+version=1.0
+description=Style all loaded layers in the GPKG in a few clicks.
+about=PackageStyler is a QGIS plugin that allows users to apply QML styles to multiple layers within a GeoPackage (GPKG) quickly and easily, ensuring consistent styling across your datasets.
+category=Raster
+author=Elmer S. Tumlos
+email=elmertumlos777@gmail.com
+homepage=https://github.com/elmertumlos/PackageStyler
+tracker=https://github.com/elmertumlos/PackageStyler/issues
+repository=https://github.com/elmertumlos/PackageStyler.git
+icon=icon.png
+experimental=False
+deprecated=False
+
+[author]
+name=Elmer S. Tumlos
+email=e.tumlos@psa.gov.ph
+
+[about]
+This plugin allows the styling of all loaded layers in a GeoPackage (GPKG) with a few clicks, utilizing QML files for consistent and efficient styling.
+
+[repository]
+type=git
+url=https://github.com/elmertumlos/PackageStyler.git
+branch=main
+
+[tracker]
+url=https://github.com/elmertumlos/PackageStyler/issues
+
+[changelog]
+1.0 - Initial release of PackageStyler plugin, providing batch styling of layers within a GPKG.
+
+[tags]
+styling, batch, qml, geopackage
+
+[translations]
